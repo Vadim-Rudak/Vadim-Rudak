@@ -6,7 +6,7 @@ I'm android developer
 
 I've been leaning programmin 6 years, after write my first project for android in school. Then stated in Belarusian State University of Informatics and Radioelectronics where I studied further as a developer. I want to develop and work as an android developer because I like writing new projects for phones and seeing how they help users certain problems.
 
-* 🌍  I'm based in Belarus
+* 🌍  I'm based in Gdansk Poland
 * ✉️  You can contact me at [vadimrudak1@gmail.com](mailto:vadimrudak1@gmail.com)
 * 🧠  I'm learning jetpack compose and KMM
 * 🤝  I'm open to collaborating on to all
