@@ -27,4 +27,4 @@ I've been leaning programmin 6 years, after write my first project for android i
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Vadim-Rudak/StudyMates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Rudak&repo=SH&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Vadim-Rudak/StudyMates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Rudak&repo=StudyMates&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
